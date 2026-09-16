@@ -4,7 +4,7 @@
 
 #include <iostream>
 #include <string>
-#include "BankAccount.h"
+#include "BankAccount.cpp"
 using namespace std;
 
 // TODO: Define the BankAccount class here
